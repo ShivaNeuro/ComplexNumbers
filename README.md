@@ -10,7 +10,8 @@ The testing part contains ComplexNumberTests . The tests are done using Pytest f
 The failures related to assertion error are fixed and the tests are rerun.
 
 Fail Report:
-![image](https://user-images.githubusercontent.com/122686415/219586661-d57568e5-a854-4a54-9536-7b0917ea5493.png)
+![image](https://user-images.githubusercontent.com/122686415/219587550-6f8232ab-6b43-48b6-b693-6229daa3c0f6.png)
+
 
 Pass Report:
 ![image](https://user-images.githubusercontent.com/122686415/219586731-7bbf90b5-de1a-49f5-a851-51dd3030b33e.png)
