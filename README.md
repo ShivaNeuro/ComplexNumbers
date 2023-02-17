@@ -15,3 +15,4 @@ Fail Report:
 Pass Report:
 ![image](https://user-images.githubusercontent.com/122686415/219586731-7bbf90b5-de1a-49f5-a851-51dd3030b33e.png)
 
+Note: The test case part is planned to me moved to Robo framework for better metrics and report .
